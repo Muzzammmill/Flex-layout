@@ -1,4 +1,1 @@
-# Flex-layout
-Gallery with flex
-live page:
-https://muzz-flex-layout.netlify.app/
+[Open grid gallery](https://muzz-flex-layout.netlify.app/)
